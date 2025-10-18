@@ -1,0 +1,6 @@
+backend/.env
+backend/venv/
+backend/__pycache__/
+backend/utils/
+ax-code-frontend/node_modules/
+ax-code-frontend/README.md
